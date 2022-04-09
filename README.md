@@ -54,6 +54,11 @@ python evaluate.py --gt_path ../../datasets/test/Rain100H/ --pred_path ../result
 SSIM: 0.899107845008588 PSNR: 29.49246224614776
 ```
 
+## 下载
+链接：[Baidu Drive](https://pan.baidu.com/s/1vlrLzE7ry0y5FiEUJOMWQg)
+提取码：7b62 
+
+
 **依次为雨图，原图，推理图**
 
 <img src="https://user-images.githubusercontent.com/49911294/162574848-5eb5caa7-7895-4745-b5ed-ff4b67e30e2f.png" width="300"/>
