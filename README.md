@@ -33,7 +33,8 @@ python train_PReNet.py --preprocess True --save_path logs/Rain100H/PReNet --data
 visualdl --logdir ./logs/Rain100H/PReNet
 ```
 
-<center><img src="https://user-images.githubusercontent.com/49911294/162574926-3d176a1e-6df8-4d73-ad5d-38853e90a567.png" width="400"/><img src="https://user-images.githubusercontent.com/49911294/162574924-37fa1946-b483-440b-9291-bf485e8dd392.png" width="400"/></center>
+<img src="https://user-images.githubusercontent.com/49911294/162574926-3d176a1e-6df8-4d73-ad5d-38853e90a567.png" width="800"/>
+<img src="https://user-images.githubusercontent.com/49911294/162574924-37fa1946-b483-440b-9291-bf485e8dd392.png" width="800"/>
 
 ## 测试
 **`.sh`文件包含了大量训练和测试脚本，部分可能需要修改路径** 或 单个使用如下命令
